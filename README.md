@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Shadow%20Ops&fontAlign=50&fontAlignY=40&color=ff0000&textBg=true&animation=fadeIn&desc=Red%20Team%20Mindset%20%7C%20Pentest%20Path&descAlign=50&descAlignY=70" />
-</p>
+
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=435&lines=Aspiring+Red+Teamer;Pentester+in+Progress;Linux+Daily+Driver;Shadow+Mindset" />
