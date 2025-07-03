@@ -31,6 +31,10 @@ No buzzwords — just progress.
 
 ---
 
+<p align="center"> <img src="https://media.tenor.com/f3LtEPP_wEAAAAAC/shadow-the-hedgehog-run.gif" width="380px" /> </p>
+
+<p align="center"> </a> <a href="https://github.com/JustALicht"> <img src="https://img.shields.io/badge/GitHub-@JustALicht-black?style=for-the-badge&logo=github&logoColor=white"/> </a> </p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=wave&color=000000&height=120&section=footer"/> </p>
+
 ## 🧠 Focus Areas
 
 ```bash
@@ -51,8 +55,4 @@ No buzzwords — just progress.
     Building local AD + attack lab (in progress)
 
     Writing simple Python & Bash automation tools
-
-🦔 Vibes
-<p align="center"> <img src="https://media.tenor.com/f3LtEPP_wEAAAAAC/shadow-the-hedgehog-run.gif" width="380px" /> </p>
-📬 Contact
-<p align="center"> </a> <a href="https://github.com/JustALicht"> <img src="https://img.shields.io/badge/GitHub-@JustALicht-black?style=for-the-badge&logo=github&logoColor=white"/> </a> </p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=wave&color=000000&height=120&section=footer"/> </p> ```
+ ```
